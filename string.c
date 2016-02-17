@@ -11,6 +11,8 @@ int my_strlen(char *s)
    return (p - s);
 }
 
+//Test 123
+
 int main(void)
 {
  // This is a main function 
