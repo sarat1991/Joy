@@ -2,6 +2,7 @@
 
 int my_strlen(char *s)
 {
+  //my_strlen comment
    char *p = s;
   //test
 
