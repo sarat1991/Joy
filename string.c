@@ -10,6 +10,8 @@ int my_strlen(char *s)
    return (p - s);
 }
 
+//Test 123
+
 int main(void)
 {
    int i;
